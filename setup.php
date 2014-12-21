@@ -1,6 +1,6 @@
 <?php
 
-//Run this file one to init the database
+//Run this file once to init the database
 //Needs write permissions in current directory to create the database file
 
 include 'include.php';
